@@ -1,6 +1,7 @@
 {
   "name": "@essap/interfaces",
   "version": "1.0.0",
+  "type": "module",
   "description": "Contratos de tipos e interfaces para el ecosistema de MFEs de ESSAP",
   "main": "src/index.js",
   "types": "src/index.js",
