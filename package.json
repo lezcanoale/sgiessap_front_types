@@ -1,0 +1,29 @@
+{
+  "name": "@essap/interfaces",
+  "version": "1.0.0",
+  "description": "Contratos de tipos e interfaces para el ecosistema de MFEs de ESSAP",
+  "main": "src/index.js",
+  "types": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@angular/core": "21.0.1",
+    "typescript": "~5.5.0"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=21.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lezcanoale/sgiessap_front_types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lezcanoale/sgiessap_front_types/issues"
+  },
+  "homepage": "https://github.com/lezcanoale/sgiessap_front_types#readme"
+}
