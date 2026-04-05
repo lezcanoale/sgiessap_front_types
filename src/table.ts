@@ -1,4 +1,4 @@
-import { PipeTransform } from "@angular/core";
+import type { PipeTransform } from "@angular/core";
 
 export type ColumnStyleType =
   | "normal"
