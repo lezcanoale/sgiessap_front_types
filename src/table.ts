@@ -4,7 +4,9 @@ export type ColumnStyleType =
   | "normal"
   | "label"
   | "codeWithDescription"
-  | "actionBadges";
+  | "actionBadges"
+  | "link"
+  | "icon";
 
 export type ColumnColor =
   | "primary"
